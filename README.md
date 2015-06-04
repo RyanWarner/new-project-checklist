@@ -1,6 +1,8 @@
 ### Questions every front-end develepor needs answered before beginning a new project.
 
+(!) **Note**: Sometimes, one or more of these questions cannot be answered at the conception of a new project. Perhaps the client does not know, and it might be our job to help them figure it out.
 
+It's okay when this happens, but it should be acknowledged. Furthermore, the current status of a question should be written down and updated as new information is available. It is important that the answers to these questions be continually saught after, not just by developers but by everone involved.
 
 ## What is it?
 This is an obvious one, but it's easier said than done. Describe the project, it's goals, any research that has been done, and any other information about what the project is.
