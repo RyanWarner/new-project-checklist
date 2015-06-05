@@ -1,4 +1,4 @@
-### Questions every front-end develepor needs answered before beginning a new project.
+### Questions every front-end developer needs answered before beginning a new project.
 
 (!) **Note**: Sometimes, one or more of these questions cannot be answered at the conception of a new project. Perhaps the client does not know, and it might be our job to help them figure it out.
 
