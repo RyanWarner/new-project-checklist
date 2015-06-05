@@ -2,7 +2,7 @@
 
 (!) **Note**: Sometimes, one or more of these questions cannot be answered at the conception of a new project. Perhaps the client does not know, and it might be our job to help them figure it out.
 
-It's okay when this happens, but it should be acknowledged. Furthermore, the current status of a question should be written down and updated as new information is available. It is important that the answers to these questions be continually saught after, not just by developers but by everone involved.
+It's okay when this happens, but it should be acknowledged. It is possible to workaround some holes, but it is not effecient. Furthermore, the current status of a question should be written down and updated as new information is available. It is important that the answers to these questions be continually saught after, not just by developers but by everone involved.
 
 ## What is it?
 This is an obvious one, but it's easier said than done. Describe the project, it's goals, any research that has been done, and any other information about what the project is.
@@ -10,7 +10,7 @@ This is an obvious one, but it's easier said than done. Describe the project, it
 ## Who else is working on it?
 Usually projects are a team effort. It's important to know who you are working with so that you can open a line of communication with other team members as soon as possible. You should know who you are working with, how to contact them, their strengths and weaknesses, and what they are working on / responsible for.
 
-Assessing the team at hand will help you do your job better. You can prevent work from being duplicated. You know who to go to for help and based on your team's strengths and weaknesses, how you can best add value.
+Assessing the team at hand will help you do your job better. You can prevent work from being duplicated. You know who to go to for information. Based on your team's strengths and weaknesses you can determine how you can best add value.
 
 ## Has any work been done so far?
 Entering a project midway through it's production is very different than starting fresh. If front end development has already started, chances are a lot of decisions have already been made about things like stack and architecture. You will have to get up to speed with the curent state of the project before beginning any serious development.
